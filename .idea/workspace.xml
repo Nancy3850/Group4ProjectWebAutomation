@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d131f9-3904-4cb5-896e-d288f3a48fde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WalMart/WalMart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WalMart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WalMart/src/main/java/page/WalmartHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WalMart/src/test/resources/WalMartTestRunner" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/MainAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/MainAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/MainAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/MainAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WalMart/src/main/java/page/WalmartHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/WalMart/src/main/java/page/WalmartHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WalMart/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/WalMart/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MainAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="276" selection-start-line="276" selection-end-line="276" />
+            <state relative-caret-position="1320">
+              <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,20 +52,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WalMart/src/main/java/page/WalmartHome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            <state relative-caret-position="120">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java">
+        <entry file="file://$PROJECT_DIR$/WalMart/src/test/resources/WalMartTestRunner">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="300">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -89,10 +106,11 @@
         <option value="$PROJECT_DIR$/Instagram/src/test/java/tests/InstaTester.java" />
         <option value="$PROJECT_DIR$/Instagram/src/test/resources/InstaTestRunner.xml" />
         <option value="$PROJECT_DIR$/Instagram/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/MainAPI.java" />
-        <option value="$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java" />
         <option value="$PROJECT_DIR$/WalMart/pom.xml" />
+        <option value="$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java" />
         <option value="$PROJECT_DIR$/WalMart/src/main/java/page/WalmartHome.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/MainAPI.java" />
+        <option value="$PROJECT_DIR$/WalMart/src/main/resources/WalMartTestRunner" />
       </list>
     </option>
   </component>
@@ -119,14 +137,11 @@
       <select />
     </treeState>
   </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="11" />
-    <option name="y" value="27" />
-    <option name="width" value="1669" />
-    <option name="height" value="972" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="132" />
+    <option name="y" value="23" />
+    <option name="width" value="1308" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -199,8 +214,7 @@
               <item name="Group4ProjectWebAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="WalMart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Group4ProjectWebAutomation" type="b2602c69:ProjectViewProjectNode" />
@@ -208,6 +222,7 @@
               <item name="WalMart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,18 +233,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553382262547" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553384498209" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Instagram/src/test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WalMart/src/test" />
+      <recent name="$PROJECT_DIR$/Instagram/src/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -244,7 +260,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.TestWalmartHome.search">
+    <configuration name="TestWalmartHome.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WalMart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages" />
+      <option name="MAIN_CLASS_NAME" value="pages.TestWalmartHome" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/Users/muhtasimmahir/Group4ProjectWebAutomation/Instagram/src/test/resources/InstaTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Instagram" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Instagram/src/test/resources/InstaTestRunner.xml" />
@@ -257,6 +291,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestWalmartHome.search" />
         <item itemvalue="TestNG./Users/muhtasimmahir/Group4ProjectWebAutomation/Instagram/src/test/resources/InstaTestRunner.xml" />
       </list>
     </recent_temporary>
@@ -271,14 +306,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552856474476</updated>
-      <workItem from="1553380765349" duration="1479000" />
+      <workItem from="1553380765349" duration="3573000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_muhtasimmahir_Group4ProjectWebAutomation_Instagram_src_test_resources_InstaTestRunner_xml - 2019.03.20 at 15h 52m 34s.xml">
-      <configuration name="/Users/muhtasimmahir/Group4ProjectWebAutomation/Instagram/src/test/resources/InstaTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_muhtasimmahir_Group4ProjectWebAutomation_Instagram_src_test_resources_InstaTestRunner_xml - 2019.03.20 at 15h 56m 50s.xml">
       <configuration name="/Users/muhtasimmahir/Group4ProjectWebAutomation/Instagram/src/test/resources/InstaTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -291,15 +323,32 @@
     <history-entry file="_Users_muhtasimmahir_Group4ProjectWebAutomation_Instagram_src_test_resources_InstaTestRunner_xml - 2019.03.20 at 16h 08m 22s.xml">
       <configuration name="/Users/muhtasimmahir/Group4ProjectWebAutomation/Instagram/src/test/resources/InstaTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestWalmartHome_search - 2019.03.23 at 19h 30m 28s.xml">
+      <configuration name="TestWalmartHome.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWalmartHome_search - 2019.03.23 at 19h 31m 20s.xml">
+      <configuration name="TestWalmartHome.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWalmartHome_search - 2019.03.23 at 19h 31m 54s.xml">
+      <configuration name="TestWalmartHome.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWalmartHome_search - 2019.03.23 at 19h 33m 35s.xml">
+      <configuration name="TestWalmartHome.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWalmartHome_search - 2019.03.23 at 19h 33m 58s.xml">
+      <configuration name="TestWalmartHome.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWalmartHome_search - 2019.03.23 at 19h 41m 44s.xml">
+      <configuration name="TestWalmartHome.search" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1479000" />
+    <option name="totallyTimeSpent" value="3573000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
+    <frame x="132" y="23" width="1308" height="825" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37052932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25987363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -309,7 +358,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287858" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3287858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,12 +366,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3287858" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3287858" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.20600858" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.20774092" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -378,18 +427,11 @@
     <entry file="file://$PROJECT_DIR$/Instagram/pom.xml" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MainAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="276" selection-start-line="276" selection-end-line="276" />
+        <state relative-caret-position="1320">
+          <caret line="91" column="66" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -400,10 +442,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WalMart/src/test/resources/WalMartTestRunner">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WalMart/src/main/java/page/WalmartHome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        <state relative-caret-position="120">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalMart/src/test/java/pages/TestWalmartHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -459,7 +523,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Instagram</last-edited>
+          <last-edited>WalMart</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
