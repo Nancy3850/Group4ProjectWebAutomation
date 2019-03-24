@@ -13,8 +13,8 @@
 
     <test name = "Walmart Home Page">
         <classes>
-            <!--<class name="TestWalmartHome"/>-->
-            <!--<class name="TestSearchWalmart"/>-->
+            <class name="pages.TestWalmartHome"/>
+            <class name="pages.TestSearchWalmart"/>
         </classes>
     </test>
 

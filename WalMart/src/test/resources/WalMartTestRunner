@@ -14,7 +14,7 @@
     <test name = "Walmart Home Page">
         <classes>
             <!--<class name="TestWalmartHome"/>-->
-
+            <!--<class name="TestSearchWalmart"/>-->
         </classes>
     </test>
 

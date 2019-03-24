@@ -11,10 +11,10 @@
     <parameter name="browserVersion" value="30.0"/>
     <parameter name="url" value="https://www.Walmart.com/"/>
 
-    <test name = "Instagram Home Page">
+    <test name = "Walmart Home Page">
         <classes>
-            <!--<class name="TestWalmartHome"/>-->
-
+            <class name="pages.TestWalmartHome"/>
+            <class name="pages.TestSearchWalmart"/>
         </classes>
     </test>
 

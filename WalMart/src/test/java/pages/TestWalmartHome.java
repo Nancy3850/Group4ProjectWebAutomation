@@ -13,4 +13,9 @@ public class TestWalmartHome extends MainAPI {
      wh.WalmartHome();
  }
 
+ @Test
+    public void testToyBox(){
+     wh.WalmartHome();
+ }
+
 }
