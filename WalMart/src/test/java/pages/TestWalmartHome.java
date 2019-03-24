@@ -6,10 +6,11 @@ import page.WalmartHome;
 
 public class TestWalmartHome extends MainAPI {
 
- WalmartHome wh;
+    WalmartHome wh;
 
  @Test
-    public void search(){
+    public void search() {
      wh.WalmartHome();
  }
+
 }
